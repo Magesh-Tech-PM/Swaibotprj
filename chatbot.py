@@ -1,3 +1,6 @@
+# Description: Main chatbot script to run SwaiBot, providing a menu-driven interface.
+# Author:Mags
+
 from modules import (
     play_rock_paper_scissors,
     play_number_guess,
