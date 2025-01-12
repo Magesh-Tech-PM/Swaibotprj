@@ -1,3 +1,6 @@
+# Description: Module for providing random jokes.
+# Author: Mags
+
 import random
 
 jokes = [

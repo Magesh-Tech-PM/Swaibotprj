@@ -1,3 +1,6 @@
+# Description: Module for implementing various text-based games.
+# Author: mags
+
 import random
 
 def play_rock_paper_scissors():

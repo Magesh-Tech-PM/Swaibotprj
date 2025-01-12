@@ -1,3 +1,6 @@
+# Description: Module for solving math problems.
+# Author: Mags
+
 def solve_math_problem():
     """
     This function prompts the user to enter a math expression and evaluates it.

@@ -1,3 +1,6 @@
+# Description: Module for motivational quote
+# Author: mags
+
 import random
 
 quotes = [

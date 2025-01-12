@@ -1,3 +1,6 @@
+# Description: Module for multiplayer games like the number guessing game.
+# Author: Mags
+
 import random
 
 

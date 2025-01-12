@@ -1,3 +1,7 @@
+# Description: Module for quizzes including movie, general knowledge, math, and capital quizzes.
+# Author: [mags]
+
+
 import random
 
 # Movie Quiz

@@ -1,3 +1,6 @@
+# Description: Module for managing birthday reminders (view, add, and check birthdays).
+# Author: [Your Name]
+
 # Dictionary to store names and birthdays
 birthdays = {
     "Alice": "1995-03-15",
